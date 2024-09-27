@@ -1,0 +1,6 @@
+.zsh_history
+.envrc
+
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
